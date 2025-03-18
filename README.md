@@ -19,7 +19,7 @@ A simple and interactive EMI Calculator that helps users estimate their monthly 
 4. Click **"🔄 Reset"** to clear the inputs and start fresh.  
 
 ## 👤 Author  
-**Prashant Nagesn Ramteke**  
+**Prashant Nagsen Ramteke**  
 [GitHub Profile](https://github.com/Zoro-7712)  
 
 ## 📜 License  
