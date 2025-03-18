@@ -1,0 +1,91 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: url("background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #EAEAEA;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background: #1E1E1E;  /* Dark card for a modern look */
+    max-width: 450px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 0px 4px 15px rgba(255, 215, 0, 0.3);  /* Soft gold glow */
+    border-radius: 12px;
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+    color: #FFD700;  /* Gold accent */
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    color: #FFD700;  /* Gold accent */
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #FFD700;  /* Gold border */
+    background: #252525;  /* Darker input fields */
+    color: #EAEAEA;  /* Light text */
+    border-radius: 6px;
+    font-size: 16px;
+    outline: none;
+}
+
+input:focus {
+    border-color: #FFA500; /* Orange-gold focus */
+    box-shadow: 0px 0px 8px rgba(255, 165, 0, 0.7);
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+button {
+    flex: 1;
+    background: #FFD700;  /* Gold button */
+    color: #121212;  /* Dark text for contrast */
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #FFD700, #C5A100);
+    transform: scale(1.05);
+}
+
+#result-container {
+    background: rgba(255, 215, 0, 0.1);  /* Subtle gold tint */
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid #FFD700;  
+}
+
+.chart-container {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px 0;
+}
