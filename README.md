@@ -1,4 +1,4 @@
-# 📊 EMI Calculator  
+9# 📊 EMI Calculator  
 
 A simple and interactive EMI Calculator that helps users estimate their monthly loan payments with a clear breakdown of interest and principal amounts.  
 
@@ -11,7 +11,7 @@ A simple and interactive EMI Calculator that helps users estimate their monthly 
 ## 🛠️ Technologies Used  
 - **HTML, CSS, JavaScript**  
 - **Chart.js** for dynamic graphs
-- **UI/UX Design for an intuitive and professional user experience 
+- UI/UX Design for an intuitive and professional user experience 
 
 ## 📌 How to Use  
 1. Enter the **Loan Amount**, **Interest Rate**, and **Loan Tenure**.  
